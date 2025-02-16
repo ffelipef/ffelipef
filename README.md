@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu me chamo Felipe! 👋
 
-<!--
-**ffelipef/ffelipef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador iniciando no mundo do desenvolvimento e buscando aprimorar minhas habilidades. Atualmente, estou explorando Java e estudando Python.
 
-Here are some ideas to get you started:
+🤖 Tenho interesse em inteligência artificial, especialmente na criação e ajuste de modelos de IA sem depender de soluções caras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Desenvolvi jogo educacional focado em lógica de programação e sempre busco novos desafios tecnológicos.
+
+⚡ Também curto explorar projetos práticos, como automação e soluções físicas mais do que digitais.
+
+🎯 Meu objetivo é consolidar meus conhecimentos, ganhar experiência com freelancer e, futuramente, conseguir um estágio.
+
+Se quiser trocar ideias ou colaborar em algum projeto, me chame! 🚀
