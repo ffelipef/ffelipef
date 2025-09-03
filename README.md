@@ -2,8 +2,6 @@ Olá, eu me chamo Felipe! 👋
 
 💻 Programador iniciando no mundo do desenvolvimento e buscando aprimorar minhas habilidades. Atualmente, estou explorando Java e estudando Python.
 
-🤖 Tenho interesse em inteligência artificial, especialmente na criação e ajuste de modelos de IA sem depender de soluções caras.
-
 📱 Desenvolvi jogo educacional focado em lógica de programação e sempre busco novos desafios tecnológicos.
 
 ⚡ Também curto explorar projetos práticos, como automação e soluções físicas mais do que digitais.
