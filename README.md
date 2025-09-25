@@ -1,4 +1,4 @@
-Desenvolvedor em formação
+**Desenvolvedor em formação**
 
 Sou apaixonado por tecnologia e atualmente estudo **desenvolvimento fullstack**.  
 Tenho experiência prática em **Python, Java e SQL**, e já desenvolvi projetos que envolvem desde  
