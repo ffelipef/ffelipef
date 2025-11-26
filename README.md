@@ -50,12 +50,6 @@ Atuar como **Desenvolvedor Mobile Android (Estágio)**, aplicando boas práticas
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ffelipef]&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ffelipef]&layout=compact&theme=default)
-
----
-
 ## 📍 Informações
 - Localização: Belém - PA
 - Formação: Ciência da Computação - CESUPA
